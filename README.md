@@ -1,2 +1,2 @@
-# Página do Site em HTML - Github
+# Pagina do Site em HTML - Github
  Teste prático e criativo em HTML
